@@ -1,0 +1,21 @@
+1- first install requirement.txt
+pip install -r requirements.txt
+
+
+2- install mysql server
+
+3- open mysql terminal and write 
+CREATE DATABASE employee_db;
+USE employee_db;
+source C:\Users\hp\Desktop\employee_management\employee_db.sql;
+
+
+
+CMD
+open cmd and write
+python app.py
+
+and it will work on server 
+📌 http://127.0.0.1:5000/
+
+
