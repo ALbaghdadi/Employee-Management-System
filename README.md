@@ -1,5 +1,6 @@
 # Employee-Management-System
 
+![image](https://github.com/user-attachments/assets/9a864b32-05c7-47c9-a5f5-eb2f2876f889)
 
 1- first install requirement.txt
 pip install -r requirements.txt
